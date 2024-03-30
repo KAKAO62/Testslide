@@ -1,0 +1,10 @@
+[run]
+parallel = True
+relative_files = True
+
+[report]
+precision = 2
+fail_under = 91.90
+include = 
+	testslide/*
+	util/*
